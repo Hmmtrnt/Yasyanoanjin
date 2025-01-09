@@ -20,6 +20,8 @@
 *.vsconfig
 *.md
 *.sln
+*.wav
+*.umap
 
 #100MB超える可能性の高いデータ
 *.uasset
